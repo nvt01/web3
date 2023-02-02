@@ -88,7 +88,7 @@
 
 .slider {
   min-height: 400px;
-  background-image: url(/website_logo/assets/img/slider.jpg);
+  background-image: url(../img/slider.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -236,11 +236,11 @@
 }
 
 .portfolio {
-  background-image: url(/website_logo/assets/img/parallax2.jpg);
+  background-image: url(../img/parallax2.jpg);
 }
 
 .portfolio-1 {
-  background-image: url(/website_logo/assets/img/parallax3.jpg);
+  background-image: url(../img/parallax3.jpg);
 }
 
 .portfolio-text {
